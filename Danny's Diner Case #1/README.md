@@ -1,6 +1,6 @@
 ## 1: Danny's Diner - Case #1 
 
-## 📚 Table of Contents
+## Table of Contents
 - [Case 1 Overview](#case-1-overview)
 - [Reference](#reference)
 - [Case Questions](#case-questions)
