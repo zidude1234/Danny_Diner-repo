@@ -1,4 +1,4 @@
-## 1: Danny's Diner - Case #1 
+## Danny's Diner - Case #1 
 
 ## Table of Contents
 - [Case 1 Overview](#case-1-overview)
