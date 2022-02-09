@@ -1,22 +1,22 @@
 ## 1: Danny's Diner - Case #1 
 
 ## 📚 Table of Contents
-- [Case Study](#case-study)
+- [Case 1 Overview](#case-1-overview)
 - [Reference](#reference)
-- [Case](#case)
+- [Case Questions](#case-questions)
 - [Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
 
 ***
 
-## Business Task
-Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. 
+## Case 1 Overview
+Danny wants to use the data to answer a few simple questions about his customers, especially about their visiting patterns, how much money they’ve spent and also which menu items are their favourite. Having this deeper connection with his customers will help him deliver a better and more personalised experience for his loyal customers. 
 
 ## Reference
 <a href = https://8weeksqlchallenge.com/case-study-1/> Danny's Diner Case #1 Details</a>
 See ERD below
 <img src="../81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
 
-## Case
+## Case Questions
 
 1. What is the total amount each customer spent at the restaurant?
 2. How many days has each customer visited the restaurant?
