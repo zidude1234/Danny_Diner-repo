@@ -1,0 +1,118 @@
+1.
+"customer_id"	"sum"
+"A"	76
+"B"	74
+"C"	36
+
+
+2.
+"customer_id"	"Unique Visits"
+"A"	4
+"B"	6
+"C"	2
+
+3.
+"row_rank"	"customer_id"	"order_date"	"product_id"	"product_name"
+1	"A"	"2021-01-01"	1	"sushi"
+1	"A"	"2021-01-01"	2	"curry"
+1	"B"	"2021-01-01"	2	"curry"
+1	"C"	"2021-01-01"	3	"ramen"
+
+4. 
+"product_name"	"count"
+"ramen"	8
+
+5.
+"track_count"	"customer_id"	"product_id"	"product_name"	"meal_count"
+1	"A"	3	"ramen"	3
+1	"B"	3	"ramen"	2
+1	"B"	1	"sushi"	2
+1	"B"	2	"curry"	2
+1	"C"	3	"ramen"	3
+
+6.
+"rank"	"customer_id"	"order_date"	"join_date"	"product_id"	"product_name"
+1	"A"	"2021-01-07"	"2021-01-07"	2	"curry"
+1	"B"	"2021-01-11"	"2021-01-09"	1	"sushi"
+
+
+7. 
+"rev_rank"	"customer_id"	"order_date"	"join_date"	"product_id"	"product_name"
+1	"A"	"2021-01-01"	"2021-01-07"	1	"sushi"
+1	"A"	"2021-01-01"	"2021-01-07"	2	"curry"
+1	"B"	"2021-01-04"	"2021-01-09"	1	"sushi"
+
+8.
+"customer_id"	"sum"
+"A"	25
+"B"	40
+
+9.
+"customer_id"	"sum"
+"A"	860
+"B"	940
+"C"	360
+
+10.
+"customer_id"	"sum"
+"A"	1370
+"B"	1060
+"C"	360
+
+Bonus 1
+"customer_id"	"order_date"	"product_name"	"price"	"member(Y/N)"
+"A"	"2021-01-01"	"curry"	15	"N"
+"A"	"2021-01-01"	"sushi"	10	"N"
+"A"	"2021-01-07"	"curry"	15	"Y"
+"A"	"2021-01-10"	"ramen"	12	"Y"
+"A"	"2021-01-11"	"ramen"	12	"Y"
+"A"	"2021-01-11"	"ramen"	12	"Y"
+"B"	"2021-01-01"	"curry"	15	"N"
+"B"	"2021-01-02"	"curry"	15	"N"
+"B"	"2021-01-04"	"sushi"	10	"N"
+"B"	"2021-01-11"	"sushi"	10	"Y"
+"B"	"2021-01-16"	"ramen"	12	"Y"
+"B"	"2021-02-01"	"ramen"	12	"Y"
+"C"	"2021-01-01"	"ramen"	12	"N"
+"C"	"2021-01-01"	"ramen"	12	"N"
+"C"	"2021-01-07"	"ramen"	12	"N"
+
+Bonus 2
+"customer_id"	"order_date"	"product_name"	"price"	"membersyn"	"members"
+"A"	"2021-01-01"	"curry"	15	"N"	
+"A"	"2021-01-01"	"sushi"	10	"N"	
+"A"	"2021-01-07"	"curry"	15	"Y"	1
+"A"	"2021-01-10"	"ramen"	12	"Y"	2
+"A"	"2021-01-11"	"ramen"	12	"Y"	3
+"A"	"2021-01-11"	"ramen"	12	"Y"	3
+"B"	"2021-01-01"	"curry"	15	"N"	
+"B"	"2021-01-02"	"curry"	15	"N"	
+"B"	"2021-01-04"	"sushi"	10	"N"	
+"B"	"2021-01-11"	"sushi"	10	"Y"	1
+"B"	"2021-01-16"	"ramen"	12	"Y"	2
+"B"	"2021-02-01"	"ramen"	12	"Y"	3
+"C"	"2021-01-01"	"ramen"	12	"N"	
+"C"	"2021-01-01"	"ramen"	12	"N"	
+"C"	"2021-01-07"	"ramen"	12	"N"	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
