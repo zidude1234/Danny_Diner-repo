@@ -4,7 +4,7 @@
 - [Case 1 Overview](#case-1-overview)
 - [Reference](#reference)
 - [Case Questions](#case-questions)
-- [Syntax](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%231%20-%20Danny's%20Diner/Danny's%20Diner%20Solution.md)
+- [Syntax](https://github.com/zidude1234/Danny_Diner-repo/blob/main/Danny's%20Diner%20Case%20%231/SQL%20Syntax/Case01%20Syntax.sql)
 
 ***
 
@@ -13,8 +13,10 @@ Danny wants to use the data to answer a few simple questions about his customers
 
 ## Reference
 <a href = https://8weeksqlchallenge.com/case-study-1/> Danny's Diner Case #1 Details</a>
+
 See ERD below
-<img src="../81607668/127727503-9d9e7a25-93cb-4f95-8bd0-20b87cb4b459.png" alt="Image" width="500" height="520">
+
+<img src="ERD01.JPG" alt="Entity Relationship Diagram">
 
 ## Case Questions
 
